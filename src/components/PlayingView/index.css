@@ -1,0 +1,26 @@
+.modal {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 10px 5px;
+  background-color: #ffffff;
+}
+
+.content {
+  width: 100%;
+  padding: 30px 20px;
+}
+
+.rules-img {
+  height: 300px;
+}
+
+.close {
+  font-size: 20px;
+  align-self: flex-end;
+}
+
+.choice-img {
+  width: 300px;
+}
